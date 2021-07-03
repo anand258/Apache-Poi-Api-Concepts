@@ -1,0 +1,3 @@
+21:39:57.114 [main] DEBUG logging2.TestLogging2 - I am debugging.
+21:39:57.139 [main] INFO  logging2.TestLogging2 - I am Info.
+21:39:57.140 [main] ERROR logging2.TestLogging2 - I am true error.
